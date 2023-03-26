@@ -124,6 +124,6 @@ count is: 11 in total
 
 #### Student details
 
-Name: Kevin Ogaba
+Name: Wilson mwaura
 
-Reg. No: SCT211-0026/2018
+Reg. No: SCT211-0310/2020
